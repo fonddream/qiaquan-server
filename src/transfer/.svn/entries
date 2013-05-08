@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6"
+   name=""
+   committed-date="2013-04-17T03:00:41.465711Z"
+   url="https://qiaquan-server.googlecode.com/svn/trunk/src/com/qiaquan/transfer"
+   last-author="huibinf@gmail.com"
+   kind="dir"
+   uuid="48b36526-f706-fd69-3fc0-64642a6751b7"
+   repos="https://qiaquan-server.googlecode.com/svn"
+   revision="6"/>
+<entry
+   committed-rev="7"
+   name="MessageHandler.java"
+   text-time="2013-05-06T07:51:01.455169Z"
+   committed-date="2013-05-07T11:12:52.036021Z"
+   checksum="52be90d1333c4c397b3030a22018fbbf"
+   last-author="huibinf@gmail.com"
+   kind="file"
+   prop-time="2013-04-27T07:18:09.654847Z"
+   revision="7"/>
+<entry
+   committed-rev="6"
+   name="Message.java"
+   text-time="2013-04-27T07:18:09.717346Z"
+   committed-date="2013-04-17T03:00:41.465711Z"
+   checksum="fffae034a18521fc158cd750c5b5c31f"
+   last-author="huibinf@gmail.com"
+   kind="file"
+   prop-time="2013-04-27T07:18:09.701722Z"/>
+</wc-entries>

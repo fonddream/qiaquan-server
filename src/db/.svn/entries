@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="7"
+   name=""
+   committed-date="2013-05-07T11:12:52.036021Z"
+   url="https://qiaquan-server.googlecode.com/svn/trunk/src/com/qiaquan/db"
+   last-author="huibinf@gmail.com"
+   kind="dir"
+   repos="https://qiaquan-server.googlecode.com/svn"
+   revision="7"/>
+<entry
+   committed-rev="7"
+   name="db.properties"
+   text-time="2012-07-26T06:28:14.000000Z"
+   committed-date="2013-05-07T11:12:52.036021Z"
+   checksum="abb3c6df7cd0e5f77968ff007e566a65"
+   last-author="huibinf@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="DBHelper.java"
+   text-time="2013-05-07T09:15:52.218280Z"
+   committed-date="2013-05-07T11:12:52.036021Z"
+   checksum="14d96ab9d895d7a4812affd410daf6e3"
+   last-author="huibinf@gmail.com"
+   kind="file"/>
+</wc-entries>

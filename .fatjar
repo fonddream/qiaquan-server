@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed May 08 16:38:14 CST 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=qiaquan-server_fat.jar
+manifest.mergeall=true
+manifest.mainclass=server.Server
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

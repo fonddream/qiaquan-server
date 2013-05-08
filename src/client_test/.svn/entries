@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5"
+   name=""
+   committed-date="2013-04-16T08:23:55.316987Z"
+   url="https://qiaquan-server.googlecode.com/svn/trunk/src/com/qiaquan/client_test"
+   last-author="huibinf@gmail.com"
+   kind="dir"
+   uuid="48b36526-f706-fd69-3fc0-64642a6751b7"
+   repos="https://qiaquan-server.googlecode.com/svn"
+   revision="6"/>
+<entry
+   committed-rev="5"
+   name="ClientHandler.java"
+   text-time="2013-04-27T07:18:09.936092Z"
+   committed-date="2013-04-16T08:23:55.316987Z"
+   checksum="4055836a00cbe8ef33c827124ccc7641"
+   last-author="huibinf@gmail.com"
+   kind="file"
+   prop-time="2013-04-27T07:18:09.904843Z"/>
+<entry
+   committed-rev="5"
+   name="ClientPipelineFactory.java"
+   text-time="2013-04-27T07:18:09.951717Z"
+   committed-date="2013-04-16T08:23:55.316987Z"
+   checksum="f017474a1bae2d85a9ffe002cb1d2e33"
+   last-author="huibinf@gmail.com"
+   kind="file"
+   prop-time="2013-04-27T07:18:09.920467Z"/>
+<entry
+   committed-rev="4"
+   name="ClientHeartBeat.java"
+   text-time="2013-04-27T07:18:09.967341Z"
+   committed-date="2013-04-11T01:06:55.362190Z"
+   checksum="905f91cbd94deb74e65b8bea1ee48c88"
+   last-author="huibinf@gmail.com"
+   kind="file"
+   prop-time="2013-04-27T07:18:09.920467Z"/>
+<entry
+   committed-rev="3"
+   name="Client.java"
+   text-time="2013-04-27T07:18:09.967341Z"
+   committed-date="2013-04-10T08:52:47.548341Z"
+   checksum="8f10d8ae0d1026e009e2991880347c54"
+   last-author="huibinf@gmail.com"
+   kind="file"
+   prop-time="2013-04-27T07:18:09.936092Z"/>
+</wc-entries>

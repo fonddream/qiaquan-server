@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="7"
+   name=""
+   committed-date="2013-05-07T11:12:52.036021Z"
+   url="https://qiaquan-server.googlecode.com/svn/trunk/src/com/qiaquan/business"
+   last-author="huibinf@gmail.com"
+   kind="dir"
+   repos="https://qiaquan-server.googlecode.com/svn"
+   revision="7"/>
+</wc-entries>

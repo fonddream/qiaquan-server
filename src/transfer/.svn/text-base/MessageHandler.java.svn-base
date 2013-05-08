@@ -1,0 +1,24 @@
+package com.qiaquan.transfer;
+
+import javax.security.auth.login.LoginContext;
+
+
+public class MessageHandler {
+	private static String LOGIN = "LOGIN";
+	
+
+	public static Message handler(Message msg) {
+		switch (msg.getMsgName()) {
+		case LOGIN: 
+			
+			break;
+
+		default:
+			break;
+		}
+
+				// 执行指令方法
+				return dc.doExecute(instance);
+	}
+
+}

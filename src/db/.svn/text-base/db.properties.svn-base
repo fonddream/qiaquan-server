@@ -1,0 +1,4 @@
+jdbc.drivers=com.mysql.jdbc.Driver
+jdbc.url=jdbc\:mysql\://localhost/mydb?useUnicode\=true&characterEncoding\=utf-8
+jdbc.username=root
+jdbc.password=pidan9210

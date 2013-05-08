@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5"
+   name=""
+   committed-date="2013-04-16T08:23:55.316987Z"
+   url="https://qiaquan-server.googlecode.com/svn/trunk/src/com/qiaquan/serialize"
+   last-author="huibinf@gmail.com"
+   kind="dir"
+   uuid="48b36526-f706-fd69-3fc0-64642a6751b7"
+   repos="https://qiaquan-server.googlecode.com/svn"
+   revision="6"/>
+<entry
+   committed-rev="5"
+   name="BasicSerializable.java"
+   text-time="2013-04-27T07:18:09.873593Z"
+   committed-date="2013-04-16T08:23:55.316987Z"
+   checksum="c32fd9eb486b30754649a862fba3f903"
+   last-author="huibinf@gmail.com"
+   kind="file"
+   prop-time="2013-04-27T07:18:09.857969Z"/>
+</wc-entries>
